@@ -1,16 +1,16 @@
 lastAccountName: 21blue64
 timestamps:
   login: 1569834244978
-  logout: 1569819682966
+  logout: 1569837119577
 ipAddress: 192.168.1.80
-afk: true
+afk: false
 logoutlocation:
   world: world
-  x: 135.00556661218525
-  y: 86.0
-  z: 221.06050819236927
-  yaw: 130.06909
-  pitch: -0.45002303
+  x: 139.26485946071512
+  y: 91.0
+  z: 167.81086780860994
+  yaw: 16.969116
+  pitch: 3.2999778
 lastlocation:
   world: world
   x: 137.69999998807907

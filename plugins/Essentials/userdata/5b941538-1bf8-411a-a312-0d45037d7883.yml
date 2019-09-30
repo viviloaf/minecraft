@@ -1,7 +1,7 @@
 lastAccountName: Meatpuck
 timestamps:
-  login: 1569834237359
-  logout: 1569651214060
+  login: 1569838423693
+  logout: 1569837119571
   lastteleport: 1569834858503
 ipAddress: 73.237.37.213
 homes:
@@ -30,11 +30,11 @@ afk: false
 nickname: Rainy
 logoutlocation:
   world: world
-  x: -131.2498655783951
-  y: 72.0
-  z: -922.309181038905
-  yaw: 21.034092
-  pitch: 10.300013
+  x: -135.35470947639178
+  y: 105.0
+  z: -925.1130220004815
+  yaw: 201.4471
+  pitch: 21.148943
 lastlocation:
   world: world
   x: -122.77193389896397
