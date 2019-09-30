@@ -13,7 +13,7 @@
 
 # If you have problems join the Essentials help support channel: http://tiny.cc/EssentialsChat
 
-# Version 2.17.1.15
+# Version 2.17.1.7
 
 # KITS ARE NOW IN THE kits.yml FILE
 
@@ -602,7 +602,7 @@ world-home-permissions: false
 sethome-multiple:
   default: 20
   vip: 20
-  staff: 20
+  staff: 10
 
 # In this example someone with 'essentials.sethome.multiple' and 'essentials.sethome.multiple.vip' will have 5 homes.
 # Remember, they MUST have both permission nodes in order to be able to set multiple homes.
