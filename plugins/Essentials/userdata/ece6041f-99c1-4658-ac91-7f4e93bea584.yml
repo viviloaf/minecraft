@@ -1,0 +1,29 @@
+lastAccountName: cactusxkid
+timestamps:
+  login: 1569626095908
+  logout: 1569629155660
+  lastteleport: 1569629152213
+ipAddress: 172.127.48.140
+lastlocation:
+  world: world
+  x: 237.48750001192093
+  y: 53.0
+  z: 291.9320543817375
+  yaw: 100.1983
+  pitch: 15.749961
+logoutlocation:
+  world: world
+  x: 228.5
+  y: 82.0
+  z: 369.5
+  yaw: 7.2000427
+  pitch: -7.049975
+nickname: max
+homes:
+  home:
+    world: world
+    x: 228.300000011921
+    y: 83.0
+    z: 369.2944985284347
+    yaw: 7.2000427
+    pitch: -7.049975

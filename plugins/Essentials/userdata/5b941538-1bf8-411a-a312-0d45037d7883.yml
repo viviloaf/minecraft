@@ -1,0 +1,44 @@
+lastAccountName: Meatpuck
+timestamps:
+  login: 1569834237359
+  logout: 1569651214060
+  lastteleport: 1569834858503
+ipAddress: 73.237.37.213
+homes:
+  home:
+    world: world
+    x: -128.26296027844973
+    y: 72.0
+    z: -923.4596833431906
+    yaw: 310.34534
+    pitch: 22.350069
+  spawn:
+    world: world
+    x: 142.94302550008544
+    y: 91.0
+    z: 187.2327007487325
+    yaw: 0.5708008
+    pitch: 5.9996576
+  mine:
+    world: world
+    x: 221.15434786509613
+    y: 71.0
+    z: -1086.5595636495875
+    yaw: 14.804554
+    pitch: 25.350002
+afk: false
+nickname: Rainy
+logoutlocation:
+  world: world
+  x: -131.2498655783951
+  y: 72.0
+  z: -922.309181038905
+  yaw: 21.034092
+  pitch: 10.300013
+lastlocation:
+  world: world
+  x: -122.77193389896397
+  y: 103.0
+  z: -917.0213769949638
+  yaw: 96.29797
+  pitch: 74.100365

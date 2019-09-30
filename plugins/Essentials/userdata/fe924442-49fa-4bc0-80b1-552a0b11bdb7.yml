@@ -1,0 +1,31 @@
+lastAccountName: HungryOnMain
+timestamps:
+  login: 1569705260104
+  lastteleport: 1569706842646
+  logout: 1569707041960
+  kits:
+    dtools: 1568688599461
+ipAddress: 67.191.255.62
+lastlocation:
+  world: world
+  x: 298.99321343605106
+  y: 12.0
+  z: 284.25931222677997
+  yaw: -257.4325
+  pitch: 36.302715
+logoutlocation:
+  world: world
+  x: 247.07499998807907
+  y: 63.0
+  z: 281.31445499936456
+  yaw: -304.90726
+  pitch: 12.716956
+afk: false
+homes:
+  home:
+    world: world
+    x: 218.29714617874254
+    y: 106.0
+    z: 436.87435483969057
+    yaw: -232.52623
+    pitch: 32.01142

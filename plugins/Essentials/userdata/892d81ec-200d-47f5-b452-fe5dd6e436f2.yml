@@ -1,0 +1,45 @@
+lastAccountName: NumeroMoo
+timestamps:
+  login: 1569776583768
+  lastteleport: 1569779829786
+  logout: 1569730529216
+  kits:
+    dtools: 1569557757602
+ipAddress: 209.51.88.24
+lastlocation:
+  world: world
+  x: -1074.1327851042133
+  y: 11.0
+  z: 844.1416199998004
+  yaw: 256.15833
+  pitch: 23.250015
+homes:
+  cave:
+    world: world
+    x: -427.86232534895845
+    y: 80.0
+    z: 198.4504563536785
+    yaw: 325.5923
+    pitch: 51.45005
+  home:
+    world: world
+    x: -330.7257060800099
+    y: 69.0625
+    z: 488.834547805822
+    yaw: -131.44934
+    pitch: 25.500017
+  caves:
+    world: world
+    x: -901.3757653225612
+    y: 29.0
+    z: 806.3000000119209
+    yaw: -26.735443
+    pitch: 43.500374
+afk: false
+logoutlocation:
+  world: world
+  x: -328.4621502939736
+  y: 60.5
+  z: 486.18919626522865
+  yaw: 318.1062
+  pitch: 16.95002

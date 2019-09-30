@@ -1,0 +1,29 @@
+lastAccountName: Crazyowl101
+timestamps:
+  login: 1569371301791
+  lastteleport: 1569372491731
+  logout: 1569372544918
+ipAddress: 24.30.41.12
+lastlocation:
+  world: world
+  x: -75.36387537716129
+  y: 78.0
+  z: 796.148710777662
+  yaw: 20.151703
+  pitch: 16.050407
+homes:
+  home:
+    world: world
+    x: -188.3125
+    y: 62.52326524554574
+    z: 186.25410181109154
+    yaw: 107.89987
+    pitch: -4.649989
+logoutlocation:
+  world: world
+  x: -203.0851957231843
+  y: 63.0
+  z: 178.3812544621334
+  yaw: 15.500183
+  pitch: 18.0
+afk: false

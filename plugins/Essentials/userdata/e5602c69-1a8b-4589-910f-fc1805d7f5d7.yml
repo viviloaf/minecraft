@@ -1,0 +1,30 @@
+lastAccountName: Ellis_S
+timestamps:
+  login: 1569835412129
+  logout: 1569835514647
+  lastteleport: 1569835453767
+ipAddress: 209.51.89.58
+afk: false
+logoutlocation:
+  world: world
+  x: 143.86080297823625
+  y: 91.0
+  z: 177.76722549277557
+  yaw: 88.1561
+  pitch: -9.110757
+nickname: ClownBastard
+homes:
+  home:
+    world: world
+    x: 623.8407589334981
+    y: 64.0
+    z: 205.69999998807907
+    yaw: -87.88403
+    pitch: 27.92523
+lastlocation:
+  world: world
+  x: 620.036429612941
+  y: 65.0
+  z: 207.4381112004948
+  yaw: -350.7726
+  pitch: 21.09215

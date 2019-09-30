@@ -1,0 +1,47 @@
+lastAccountName: TheDerpDino
+timestamps:
+  login: 1569777708352
+  lastteleport: 1569778458148
+  logout: 1569779743738
+  kits:
+    notch: 1568936762150
+    dtools: 1569644950926
+ipAddress: 209.51.89.71
+lastlocation:
+  world: world
+  x: -4435.5
+  y: 51.0
+  z: -428.5
+  yaw: 25.747437
+  pitch: 34.12595
+homes:
+  home:
+    world: world
+    x: -348.3669708380603
+    y: 73.0
+    z: 494.940300741315
+    yaw: 97.619026
+    pitch: 39.38755
+  secret:
+    world: world
+    x: -4435.390395601561
+    y: 51.0
+    z: -428.69999998807907
+    yaw: 358.68732
+    pitch: 26.859808
+  plains:
+    world: world
+    x: -1035.5668308398388
+    y: 32.0
+    z: 1243.5633355536888
+    yaw: -270.08728
+    pitch: 19.09264
+afk: false
+logoutlocation:
+  world: world
+  x: -356.88926762864276
+  y: 69.0
+  z: 496.915036260256
+  yaw: -138.7045
+  pitch: 13.479723
+nickname: DerpyDino

@@ -1,0 +1,30 @@
+lastAccountName: dpatar
+timestamps:
+  login: 1569776712690
+  logout: 1569685690165
+  lastteleport: 1569778976669
+ipAddress: 76.97.59.108
+lastlocation:
+  world: world
+  x: -290.71868693773695
+  y: 92.0
+  z: -466.1983889685962
+  yaw: 104.60608
+  pitch: 36.150146
+logoutlocation:
+  world: world
+  x: -286.388905795302
+  y: 59.0
+  z: -465.56402697731204
+  yaw: -11.501465
+  pitch: 5.7003856
+homes:
+  home:
+    world: world
+    x: -282.684149547155
+    y: 68.0
+    z: -465.0875701140319
+    yaw: -187.881
+    pitch: 20.249826
+nickname: Rue
+afk: true

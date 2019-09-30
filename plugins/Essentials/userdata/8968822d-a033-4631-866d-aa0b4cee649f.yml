@@ -1,0 +1,21 @@
+lastAccountName: dunspork
+timestamps:
+  login: 1568690398531
+  lastteleport: 1568689735571
+  logout: 1568690845117
+ipAddress: 76.20.243.232
+lastlocation:
+  world: world
+  x: 242.5
+  y: 64.5000002
+  z: 293.5
+  yaw: -4.6500006
+  pitch: 6.3000007
+logoutlocation:
+  world: world
+  x: 844.098107728982
+  y: 70.0
+  z: 401.9610416427422
+  yaw: 310.93616
+  pitch: 34.38697
+afk: false

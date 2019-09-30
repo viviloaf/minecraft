@@ -1,0 +1,29 @@
+lastAccountName: Kieran_Del
+timestamps:
+  login: 1569618291506
+  lastteleport: 1569620779069
+  logout: 1569620836864
+ipAddress: 71.56.52.145
+lastlocation:
+  world: world
+  x: 45.30000001192093
+  y: 80.5625
+  z: -838.292061105966
+  yaw: 0.0
+  pitch: 0.0
+afk: false
+logoutlocation:
+  world: world
+  x: 35.33918277489073
+  y: 73.0
+  z: -820.2542248732168
+  yaw: 311.9419
+  pitch: 0.15023322
+homes:
+  home:
+    world: world
+    x: 39.901327966803215
+    y: 81.0
+    z: -840.7681375930516
+    yaw: 139.88632
+    pitch: 11.850003

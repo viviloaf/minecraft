@@ -1,0 +1,33 @@
+lastAccountName: wackysack
+timestamps:
+  login: 1569612783282
+  lastteleport: 1569617844136
+  kits:
+    dtools: 1569542109016
+    tools: 1569620468318
+  logout: 1569621285670
+ipAddress: 209.51.89.39
+nickname: rei
+lastlocation:
+  world: world
+  x: 422.96856660712723
+  y: 66.22149363870948
+  z: 993.0323139087537
+  yaw: 302.3789
+  pitch: 8.448341
+afk: false
+logoutlocation:
+  world: world
+  x: 270.1990950978271
+  y: 60.0
+  z: 329.5846262801004
+  yaw: 281.5952
+  pitch: 2.399884
+homes:
+  home:
+    world: world
+    x: 282.3623526172528
+    y: 54.0
+    z: 343.5035644013988
+    yaw: -88.3302
+    pitch: -4.4520144

@@ -1,0 +1,43 @@
+lastAccountName: Artemis1919
+timestamps:
+  login: 1569519591236
+  lastteleport: 1569520019712
+  logout: 1569520062065
+ipAddress: 209.51.88.242
+lastlocation:
+  world: world
+  x: -361.1221292634016
+  y: 54.0
+  z: 468.6612382045486
+  yaw: 290.19604
+  pitch: 8.099988
+homes:
+  home:
+    world: world
+    x: -365.48202526106195
+    y: 66.0
+    z: 465.5581042930946
+    yaw: 193.44556
+    pitch: 19.949986
+  forest:
+    world: world
+    x: -48.78180643135133
+    y: 74.0
+    z: 1132.2090106145492
+    yaw: 7.010326
+    pitch: -62.54995
+  water:
+    world: world
+    x: -440.0784302129612
+    y: 62.5232647277825
+    z: -164.8789748666966
+    yaw: -109.90614
+    pitch: 13.050194
+logoutlocation:
+  world: world
+  x: -368.5417703036048
+  y: 67.0
+  z: 476.7860457654712
+  yaw: 75.54554
+  pitch: -0.30001923
+afk: false
